@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🏂 I'm Jiali Wang, an ordinary students from NWPU.
+- 🔭 I'll learn something about distributed system, Go language, ML for system, AI and etc.
+- 📚 I also want to read some philosophy books.
+- 🎶 I want to learn a musical instruments in the future.
+- 🌈 Try to keep updating and *day day up*.
