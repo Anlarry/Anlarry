@@ -20,3 +20,5 @@ Here are some ideas to get you started:
 - 📚 I also want to read some philosophy books.
 - 🎶 I want to learn a musical instruments in the future.
 - 🌈 Try to keep updating and *day day up*.
+
+**Ads**, if you want to take a look at my [blog](https://www.cnblogs.com/anlarry/).
