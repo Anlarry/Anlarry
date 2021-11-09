@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 - 🎶 I want to learn a musical instruments in the future.
 - 🌈 Try to keep updating and *day day up*.
 
-**Ads**, if you want to take a look at my [blog](https://www.cnblogs.com/anlarry/).
+**Ads**, if you want to take a look at my [blog](https://Anlarry.github.io/).
