@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 -->
 
 - 🏂 I'm Jiali Wang, an ordinary students from NWPU.
-- 🔭 I'll learn something about distributed system, Go language, ML for system, AI and etc.
+- 🔭 <del>I'll learn something about distributed system, Go language, ML for system, AI and etc</del>.
+- 🔭 I'm struggling in GNN currently.
 - 📚 I also want to read some philosophy books.
 - 🎶 I want to learn a musical instruments in the future.
 - 🌈 Try to keep updating and *day day up*.
