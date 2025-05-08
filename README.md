@@ -15,11 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🏂 I'm Jiali Wang, an ordinary students from NWPU.
-- 🔭 <del>I'll learn something about distributed system, Go language, ML for system, AI and etc</del>.
-- 🔭 I'm struggling in GNN currently.
-- 📚 I also want to read some philosophy books.
-- 🎶 I want to learn a musical instruments in the future.
+- 🏂 I'm Jiali Wang, an Ph.D Candidate at SJTU.
+- 🔭 I'm currently interesting in Operating System, AI Accelerators, etc.
+- 📚 I'm reading philosophy and history in spare time.
+- 🎶 I also try to learn chromatic harmonica.
 - 🌈 Try to keep updating and *day day up*.
 
 **Ads**, if you want to take a look at my [blog](https://Anlarry.github.io/).
