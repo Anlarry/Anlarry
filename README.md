@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🏂 I'm Jiali Wang, an Ph.D Candidate at SJTU.
+- 🏂 I'm Jiali Wang, a Ph.D Candidate at SJTU.
 - 🔭 I'm currently interesting in Operating System, AI Accelerators, etc.
 - 📚 I'm reading philosophy and history in spare time.
 - 🎶 I also try to learn chromatic harmonica.
